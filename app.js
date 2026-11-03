@@ -9,7 +9,7 @@ const product =[
     { id: 8, title: 'Видеокарта RTX 5090 TI', category: 'Компьютерь', price: 1760000 },
     { id: 9, title: 'SSD M.2 ADATA 960', category: 'Компьютерь', price: 21000 }
   ];
-  const cart = [];
+const cart = [];
   
   const catalog = document.getElementById('catalog');
   const cartCount = document.getElementById('cart-count');
